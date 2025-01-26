@@ -1,2 +1,4 @@
 # OwnTV
-For update IPTV resouce
+For update IPTV resource
+
+To get IPTV resource and update it online
